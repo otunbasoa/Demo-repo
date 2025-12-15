@@ -6,3 +6,7 @@ Git refresher course
 
 watch tutorial on Youtube
 
+
+## Local Developement 
+
+1. Open index.html inyour browser.
