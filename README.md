@@ -9,4 +9,4 @@ watch tutorial on Youtube
 
 ## Local Developement 
 
-1. Open index.html inyour browser.
+1. Open index.html in your browser.
